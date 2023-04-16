@@ -1,0 +1,11 @@
+/* #cv-form{
+    display: none;
+} */
+#cv-template{
+    display: none;
+}
+.img{
+    border: 2px solid blue;
+    border-radius: 50%;
+    width: 200px;
+}
