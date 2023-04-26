@@ -2,7 +2,7 @@
 
 A website to generate resume based on the inputs given by user.
 
-TECH STACKS used-HTML,CSS,Javascript
+TECH STACKS used-HTML,CSS,Javascript, Bootstrap
 
 Click here 👇 to see.
 
